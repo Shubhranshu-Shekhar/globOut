@@ -1,1 +1,1 @@
-globOut: Principled Outler Detector - Theory and Applications
+globOut: Principled Outlier Detection Method — Theory and Applications
